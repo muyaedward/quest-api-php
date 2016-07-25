@@ -20,7 +20,7 @@ $ws->password = 'yourpassword';
 //Fill in the Sender ID approved by your account manager
 $ws->from = 'Quest-web';
 
-$phone_numbers = array('+254702681502', '+254722925311');
+$phone_numbers = array('+2547********', '+2547********');
 
 $sendto = implode(',', $phone_numbers);
 
