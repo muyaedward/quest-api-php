@@ -21,7 +21,7 @@ $ws->password = 'yourpassword';
 $ws->from = 'Quest-web';
 $ws->schedule = '2016-07-11 17:18:12';
 
-$phone_numbers = array('+254702681502', '+254722925311');
+$phone_numbers = array('+2547********', '+2547********');
 
 $sendto = implode(',', $phone_numbers);
 
