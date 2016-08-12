@@ -4,7 +4,7 @@ Quest sms API is a free bulk sms gateway to send bulk sms through the internet
 Quest website developers Ltd Official project website:
 
    https://questdesigners.com/bulk-sms-messages
-#installation
+#Installation
 <ul>
 <li>Upload all the files in your server, you can also use local server like WAMP and XAMPP</li>
 <li>Acquire an account from Quest sms portal at http://account.questdesigners.com.</li>
